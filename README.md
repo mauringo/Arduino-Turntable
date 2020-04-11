@@ -1,4 +1,4 @@
-# Arduino-Turnatbale
+# Arduino-Turntable
 
 The idea is to use an Arduino UNO to feed an inverter with three phase sPWM signals
 in order to run a synchronous motor at constant spees. 
