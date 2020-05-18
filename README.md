@@ -3,7 +3,7 @@
 The idea is to use an Arduino UNO to feed an inverter with three phase sPWM signals
 in order to run a synchronous motor at constant spees. 
 
-The Firmware for the Arduino UNO has been done starting from the Martin Nawrath's DDS 
+The Firmware for the Arduino UNO has been developed starting from the Martin Nawrath's DDS 
 software: 
 http://interface.khm.de/index.php/lab/interfaces-advanced/arduino-dds-sinewave-generator/
 
