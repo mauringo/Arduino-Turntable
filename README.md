@@ -14,10 +14,10 @@ control circuit it's possible to run the motor like a synchronous motor.
 
 Here there are some details of the final product
 
-<img src="paint.jpg"
+<img src="images/paint.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-<img src="no_paint.jpg"
+<img src="images/no_paint.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
