@@ -11,3 +11,7 @@ Thank you very much!
 
 The motor i am using is a modified Nidec 24H667H010 bldc motor: removing the integrated 
 control circuit it's possible to run the motor like a synchronous motor.
+
+<img src="no_paint.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
