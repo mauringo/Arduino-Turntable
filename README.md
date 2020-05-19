@@ -1,5 +1,10 @@
 # Arduino-Turntable
 
+<img src="images/paint.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
+
 The idea is to use an Arduino UNO to feed an inverter with three phase sPWM signals
 in order to run a synchronous motor at constant spees. 
 
@@ -14,9 +19,7 @@ control circuit it's possible to run the motor like a synchronous motor.
 
 Here there are some details of the final product
 
-<img src="images/paint.jpg"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+
 
 <img src="images/no_paint.jpg"
      alt="Markdown Monster icon"
